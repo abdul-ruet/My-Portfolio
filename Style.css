@@ -1,3 +1,59 @@
+body{
+    margin: 0;
+    margin-top: 0%;
+    margin-inline-start: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.intro{
+    color: blueviolet;
+    padding-right: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+}
+.intro:hover{
+    color: aquamarine;
+    position: inherit;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    padding-left: 1%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
 H1{
-    color: greenyellow;
+    color: wheat;
+    background-color: black;
+}
+h3{
+    color: white;
+    
+}
+.sec1{
+    background-color: black;
+    text-align: center;
+}
+
+    
+
+H2{
+    padding-left: 2%;
+}
+.half-width img{
+    width: 65%;
+    padding-bottom: 5%;
+    
+}
+
+    
+
+.sec2{
+    background-color: burlywood;
+        
+        font-size: 18px;
+   
+    height: 210px;
+    padding-bottom: 80px;
 }
