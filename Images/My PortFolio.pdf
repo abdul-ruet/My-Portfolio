@@ -1,34 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+<!-- saved from url=(0060)file:///D:/Web%20Development/My%20PortFolio/Myportfolio.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My PortFolio</title>
-    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="./My PortFolio_files/Style.css">
 </head>
 <body>
     
     <section class="sec2"> 
-        <H1 class="h">Welcome To My Profile</H1>
-        <h3 class="h">- Abdul K. Shohug</h2>
-        <img class="mine" src="Images/image 12.png" alt="">
-        </h3></section>
+        <h1 class="h">Welcome To My Profile</h1>
+        <h3 class="h">- Abdul K. Shohug</h3>
+        <img class="mine" src="./My PortFolio_files/image 12.png" alt="">
+        </section>
         <section>
-        <H2></H2>
-        <p></p>
+        <h2></h2>
         
-        <div class="half-width" >
-            <p>Senior at Rajshahi University of Engineering & Technology (<a target="_blank" href="https://www.mte.ruet.ac.bd/">RUET</a>). I am a driven individual with a fervent passion for literature and an unwavering commitment to the world of technology. My academic journey at RUET has not only equipped me with the necessary engineering skills but has also fueled my desire to bridge the gap between the realms of technology and creativity. Beyond my academic pursuits, I am actively involved in the realm of Robotics, Automation, and Computer Vision. In my quest to blend innovation with storytelling. As I approach the culmination of my academic journey, I am excited about the prospect of translating my passion into impactful contributions that push the boundaries of what technology can achieve.</p>
+        <div class="half-width">
+            <p>Senior at Rajshahi University of Engineering &amp; Technology (<a target="_blank" href="https://www.mte.ruet.ac.bd/">RUET</a>). I am a driven individual with a fervent passion for literature and an unwavering commitment to the world of technology. My academic journey at RUET has not only equipped me with the necessary engineering skills but has also fueled my desire to bridge the gap between the realms of technology and creativity. Beyond my academic pursuits, I am actively involved in the realm of Robotics, Automation, and Computer Vision. In my quest to blend innovation with storytelling. As I approach the culmination of my academic journey, I am excited about the prospect of translating my passion into impactful contributions that push the boundaries of what technology can achieve.</p>
         </div>
         <div class="half-width">
             <p class="intro">
-                <ol >
+                </p><ol>
                 <li>E-mail: <span class="clr">abdulk9484@gmail.com</span></li>
                 <li> <a target="_blank" href="https://www.linkedin.com/in/abdul-kaium-38b191290/">LinkedIn</a></li>
                 <li><a target="_blank" href="https://www.goodreads.com/user/show/127436700-abdul-kaium">GoodReads</a></li>
                 <li><a target="_blank" href="https://github.com/abdul-ruet">GitHub</a></li>
                 <li><a href="https://medium.com/@abdulk9484">Medium</a></li>
-            </ol></p>
+            </ol><p></p>
         </div>
       
             
@@ -40,7 +39,7 @@
         <div class="half-width">
             
             
-                <li ><b>Rajshahi University of Engineering & Technology</b></li>
+                <li><b>Rajshahi University of Engineering &amp; Technology</b></li>
                 <p>B.Sc. in Mechatronics Engineering,</p>
                 <p>Class year of 2024</p>
                 <li>
@@ -65,7 +64,7 @@
            <div class="half-width">
             
                 <li>
-                    <p><b>Collaborative Robot Safety: Design & Deployment </b></p>
+                    <p><b>Collaborative Robot Safety: Design &amp; Deployment </b></p>
                     <p class="deep">University At Buffalo and The State University of New York | Coursera</p>
                     <p class="extra-deep">Issued Oct 2023</p>
                 </li>
@@ -88,7 +87,7 @@
             <li>
                 <p><b>Build Your First Machine Learning Pipeline using DataIku</b></p>
                 <p class="deep">Coursera</p>
-                <p  class="extra-deep">Issued Sept 2023</p>
+                <p class="extra-deep">Issued Sept 2023</p>
             </li>
 
            </div>
@@ -118,7 +117,7 @@
             <li class="p1">
                 <p><b><a target="_blank" href="https://www.researchgate.net/publication/367519762_Advanced_Automated_Greenhouse_System_Designed_to_Implement_Automation_Controlling_Environmental_Air_and_Soil_Entities">Advanced Automated Greenhouse System Designed to Implement Automation Controlling Environmental Air and Soil Entities.</a></b></p>
                 <p> </p>
-                <p class="deep">Conference: 5th International Conference on Mechanical, Industrial and Materials Engineering 2022 (ICMIME2022)At: Rajshahi University of Engineering & Technology(RUET)</p>
+                <p class="deep">Conference: 5th International Conference on Mechanical, Industrial and Materials Engineering 2022 (ICMIME2022)At: Rajshahi University of Engineering &amp; Technology(RUET)</p>
             </li>
 
        
@@ -130,25 +129,18 @@
                 <p>"And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about."</p>
             </li>
         </div>
-        <div class="half-width">
-            
-            <li class="p1">
-                <b></b>Enhancing Low Light Images with Deep Learning: A State-of-the-Art Review and Future Directions</p>
-                <p> </p>
-                <p class="deep">Under Review</p>
-            </li>
 
  </section>
  <section class="project">
     <h1>Projects:-</h1>
     <div class="half-width">
-        <Li><p><b>Line Follower Robot</b></p></Li>
+        <li><p><b>Line Follower Robot</b></p></li>
         <p class="deep"><b>Key Features:</b>
             Developed a custom hardware platform integrating infrared sensors for line detection and motors for precise control.
             Implemented a PID (Proportional-Integral-Derivative) control algorithm for accurate line tracking.
             Achieved real-time responsiveness to adapt to various line shapes and navigate complex paths autonomously.
             The Line Following Robot successfully demonstrated its ability to follow lines of varying shapes and complexities, showcasing its practical applications in industrial automation and educational robotics.</p>
-            <img src="Images/p1.png" alt="">
+            <img src="./My PortFolio_files/p1.png" alt="">
         <p class="extra-deep">
             LFR is an autonomous robot designed to follow a visible line or path on the ground. It does this by using various sensors and control systems to detect and track the line's position, allowing it to navigate along the path without human intervention.
         </p>
@@ -159,7 +151,7 @@
         <li><p><b>
             Advanced Automated Greenhouse System</b></p></li>
             <p class="deep">The project was microcontroller-based. The project named "Advanced Automated Greenhouse System," which transforms agriculture. To create a complex smart irrigation system, we used an ATmega32 microprocessor in conjunction with soil and temperature sensors. By orchestrating precise control over environmental factors and soil conditions, this ground-breaking system promotes the best possible crop development while minimizing resource use. It illustrates the potential of automation in improving agricultural yields and minimizing environmental effect, and it marks a crucial step towards efficient and sustainable agriculture. I'm overjoyed to have a role in the project.</p>
-            <img src="Images/p2.png" alt="">
+            <img src="./My PortFolio_files/p2.png" alt="">
             <p class="extra-deep">
             Integrated LDR, soil, and temperature sensors, directed by an Arduino Nano microcontroller. Revolutionizing agriculture, it gathers crucial data for smart irrigation, ensuring optimal light for plant growth. A visual testament to our commitment to sustainable, cutting-edge automation and a greener, smarter agricultural future.
             </p>
@@ -175,7 +167,7 @@ the response mechanisms to seismic events. The integration of sophisticated comp
 humidity and temperature sensors, flame sensors, vibration sensors, alongside the powerful ESP32 
 microcontroller, signifies a holistic approach to addressing the multifaceted challenges posed by 
 earthquakes.</p>
-<img src="Images/p3.png" alt="">
+<img src="./My PortFolio_files/p3.png" alt="">
 <p class="extra-deep">The implementation of our disaster management system, incorporating various sensors transmitting 
     both digital and analog signals, has yielded commendable results. Throughout rigorous testing and 
     operational checks, the system has demonstrated flawless functionality across all components. The 
@@ -194,7 +186,7 @@ earthquakes.</p>
         <p class="deep">Premier Cement · Internship</p>
            <p class="extra-deep"> Mar 2022 - Apr 2022 · 2 mos</p>
            <p class="extra-deep"> Chattogram, Bangladesh · On-site </p>
-        <p>The subject matter of the industrial training program were Maintenance, Operation, Overhauling, Troubleshooting, Instrumentation & Controlling, SCADA, PLC, Production & Delivery Process related issues of existing cement Mill of FLSmidth VRM OK 56-4 under the factory's equipment sets.</p>
+        <p>The subject matter of the industrial training program were Maintenance, Operation, Overhauling, Troubleshooting, Instrumentation &amp; Controlling, SCADA, PLC, Production &amp; Delivery Process related issues of existing cement Mill of FLSmidth VRM OK 56-4 under the factory's equipment sets.</p>
     </div>
     <div class="half-width">
         <li><p><b>
@@ -217,8 +209,8 @@ earthquakes.</p>
 
     
     
-    <p></p>
+    
 
-</body>
+
 <footer class="tt">@All rights reserved | Abdul Kaium</footer>
-</html>
+</body></html>

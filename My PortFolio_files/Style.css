@@ -1,0 +1,177 @@
+body{
+    margin: 0;
+    margin-top: 2%;
+    margin-inline-start: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+.project{
+    float: left;
+    width: 100%;
+}
+section{
+    
+    width: 100%;
+    padding-left: 2%;
+    float: left;
+    margin-left: 2%;
+}
+.intro{
+    color: blueviolet;
+    padding-right: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h4{
+    font-size: 30px;
+    padding-left: 2%;
+}
+h5{
+    margin-bottom: 5%;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 1%;
+    margin-bottom: 2%;
+    margin-left: 2%;.
+    text-align: justify;
+    
+}
+H1{
+    color: black;
+    background-color: black greenyellow;
+
+}
+h3{
+    color: black;
+    
+}
+
+.clr{
+    color: blueviolet;
+}
+H1{
+    padding-left: 1%;
+    margin: 1%;
+}
+
+H2{
+    padding-left: 2%;
+}
+.half-width img{
+    width: 65%;   
+    padding-left: 2%;
+    
+}
+.mine{
+    height: 100%
+}
+body{
+    background-color:aliceblue;
+}
+.sec2{
+    background-image: url("Images/intro.webp");
+    background-color:aliceblue;
+        
+        font-size: 18px;
+   
+    height: 160px;
+    padding-bottom: 80px;
+}
+.project{
+    background-color: azure;
+}
+.Education{
+    padding-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("Images/bbbgg.webp");
+    
+}
+.deep{
+    
+    color: rgb(123, 78, 10);
+}
+.extra-deep{
+    color: rgb(115, 70, 10);
+
+}
+.cour{
+    background-image: url("Images/bbb.jpeg");
+    background-repeat: no-repeat;
+    
+    background-blend-mode: color-burn;
+    float: left;
+    margin-left: 2%;
+    color: black
+    
+    
+    
+   
+   padding-left: 2%;  
+}
+p{
+    padding: 0;
+    margin: 0;
+}
+.h{
+    padding-left: 2%;
+    margin-left: 1%;
+}
+.new{
+    font-size: 20px;
+    
+}
+.publication{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5%;
+    padding-left: 2%;
+    
+    
+    
+}
+.pub{
+    width: 80%;
+    font-size: 25px;
+    color: black;
+     margin-bottom: 3%;
+    float: left;
+    padding-left: 0%;
+
+    
+}
+.Education{
+    
+     box-shadow: 90deg black brown ;
+}
+h6{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.exp{
+    background-color: blanchedalmond;
+    
+
+}
+.tt{
+    text-align: center;
+    color: rgb(115, 70, 10);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.p1{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 200px;
+   
+    border-left: 5px solid skyblue;
+    
+}
+p1:hover{
+    color: aquamarine;
+}
